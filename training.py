@@ -27,3 +27,9 @@ print('Some random changes 5')
 
 print('Hyperparameter Tuning Bayesian Optimization - Completed')
 print('Some random changes {1..5..1}')
+
+ print(Hyperparameter Tuning Bayesian Optimization)
+
+print('some random changes {1..5..1}')
+
+print('Hyperparameter tuning bayesian optimization -Completed')
